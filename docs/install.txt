@@ -1,0 +1,5 @@
+1. https://www.rust-lang.org/
+2. https://code.visualstudio.com/docs/languages/rust
+	rustup toolchain install stable-x86_64-pc-windows-gnu
+	rustup default stable-x86_64-pc-windows-gnu
+3. VS Code -> rust-analyzer
